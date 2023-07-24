@@ -1,0 +1,19 @@
+Reqs for repo
+
+	- all 15 question pages
+	-"choose your questions" page		[DONE]
+	- finished quiz option			[DONE]
+	- wrong answer page			[DONE]
+	- login portal				[DONE]
+	- about page				[DONE]
+	- main app .py
+	- Sign up page				[DONE]
+
+	- film "walkthrough" video
+	- change all files to python format
+	- static image folder			[DONE]
+
+	Features
+	-blacked out password
+	-login submits
+	-un-select login from all Qs
